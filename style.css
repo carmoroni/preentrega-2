@@ -6,12 +6,14 @@ h1 {
     text-align: center; 
     font-family: Georgia, 'Times New Roman', Times, serif; 
     font-size: 3.8rem;
+    background-image: radial-gradient(250px 100px, lightblue, pink);
 }
 
 h2 {
-    color: #565656; 
+    color: gray; 
     text-align: center;
     font-style: italic ;
+    
 
 }
 h6 {
